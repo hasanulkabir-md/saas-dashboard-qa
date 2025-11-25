@@ -1,0 +1,27 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Playwright browsers
+playwright/.cache/
+**/playwright/.cache/
+**/ms-playwright/
+
+# Node / React
+node_modules/
+frontend/dashboard-ui/node_modules/
+npm-debug.log
+yarn-error.log
+
+# SQLite DB
+*.db
+
+# Environment files
+.env
+
+# OS files
+.DS_Store
+
+# Logs
+*.log
