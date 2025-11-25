@@ -1,1 +1,4 @@
-SELECT * FROM users WHERE email='kabir@example.com';
+.headers on
+.mode column
+
+SELECT * FROM users;
