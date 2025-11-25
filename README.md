@@ -160,7 +160,7 @@ sqlite3 dashboard.db < qa-sql/check_user.sql
 
 ### Add User Form
 
-![Add User](screenshots/add_user_form.png)
+![Add User](screenshots/add_user_form.png.png)
 
 ### User List
 
